@@ -33,7 +33,7 @@
 ### Langkah-langkah Instalasi
 1. **Clone repository**:
     ```bash
-    git clone https://github.com/littleboy12/pendaftaranSeminar.git
+    git clone https://github.com/littleboy12/WebsiteKasirSederhana.git
     ```
 
 2. **Pindahkan file ke direktori root server**:
