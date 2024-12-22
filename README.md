@@ -42,7 +42,7 @@
 3. **Buat database di MySQL**:
    - Masuk ke phpMyAdmin atau menggunakan command line untuk membuat database:
      ```sql
-     CREATE DATABASE db_seminar;
+     CREATE DATABASE db_poskonter;
      ```
 
 4. **Impor file database**:
